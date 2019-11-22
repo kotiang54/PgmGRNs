@@ -1,7 +1,7 @@
 
 This file provides a brief explanation of the datasets used. 
 
-The rows represents the sample experiments whereas the columns indicate the genes involved.
+The rows of each file represent the sample experiments whereas the columns indicate the genes involved.
 
 1. AR_data.csv : Normalized gene expression data for the acid resistance regulatory network in ecoli.
 	Genes in the order of columns: evgA, ydeO, gadE, gadX, gadA, gadBC, gadW, hdeA, phoP, crp, rpoS, rpoD, hns, ydeP
