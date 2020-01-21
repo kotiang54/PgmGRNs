@@ -92,9 +92,9 @@ set(T, 'verticalalignment', 'top', 'horizontalalignment', 'left');
 
 % Iteration plots of the correlation coeffs
 % How rhos improve with increasing iteration
-figure(3);
-axis square;
-axis([0 1 0 1]);
-plot(1:length(corr_r), corr_r,'r-o')
-ylabel('Correlation coeff. \rho ')
-xlabel('iterations')
+% figure(3);
+% axis square;
+% axis([0 1 0 1]);
+% plot(1:length(corr_r), corr_r,'r-o')
+% ylabel('Correlation coeff. \rho ')
+% xlabel('iterations')
